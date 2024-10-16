@@ -1,2 +1,2 @@
 # Lu-Browser
-iberty-unleashed Browser
+Liberty-unleashed Browser
